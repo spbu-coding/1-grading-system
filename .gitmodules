@@ -67,3 +67,6 @@
 [submodule "1-Mishavint"]
 	path = 1-Mishavint
 	url = https://github.com/spbu-coding/1-Mishavint.git
+[submodule "1-IAmFunkyFrog"]
+	path = 1-IAmFunkyFrog
+	url = https://github.com/spbu-coding/1-IAmFunkyFrog.git
