@@ -61,3 +61,6 @@
 [submodule "1-PyRayman"]
 	path = 1-PyRayman
 	url = https://github.com/spbu-coding/1-PyRayman.git
+[submodule "1-MDubovik"]
+	path = 1-MDubovik
+	url = https://github.com/spbu-coding/1-MDubovik.git
