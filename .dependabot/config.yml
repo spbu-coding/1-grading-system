@@ -5,6 +5,8 @@ update_configs:
     update_schedule: "daily"
     allowed_updates:
       - match:
+          dependency_name: "1-Mishavint"
+      - match:
           dependency_name: "1-MDubovik"
       - match:
           dependency_name: "1-PyRayman"

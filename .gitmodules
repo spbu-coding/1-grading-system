@@ -64,3 +64,6 @@
 [submodule "1-MDubovik"]
 	path = 1-MDubovik
 	url = https://github.com/spbu-coding/1-MDubovik.git
+[submodule "1-Mishavint"]
+	path = 1-Mishavint
+	url = https://github.com/spbu-coding/1-Mishavint.git
