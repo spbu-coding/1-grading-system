@@ -58,3 +58,6 @@
 [submodule "1-artmotika"]
 	path = 1-artmotika
 	url = https://github.com/spbu-coding/1-artmotika.git
+[submodule "1-PyRayman"]
+	path = 1-PyRayman
+	url = https://github.com/spbu-coding/1-PyRayman.git
