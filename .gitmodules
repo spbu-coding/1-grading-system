@@ -25,3 +25,6 @@
 [submodule "1-TimPushkin"]
 	path = 1-TimPushkin
 	url = https://github.com/spbu-coding/1-TimPushkin.git
+[submodule "1-TheDarkRisen"]
+	path = 1-TheDarkRisen
+	url = https://github.com/spbu-coding/1-TheDarkRisen.git
