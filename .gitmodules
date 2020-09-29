@@ -52,3 +52,6 @@
 [submodule "1-Naniduan"]
 	path = 1-Naniduan
 	url = https://github.com/spbu-coding/1-Naniduan.git
+[submodule "1-AzimMuradov"]
+	path = 1-AzimMuradov
+	url = https://github.com/spbu-coding/1-AzimMuradov.git
