@@ -34,3 +34,6 @@
 [submodule "1-foreverjun"]
 	path = 1-foreverjun
 	url = https://github.com/spbu-coding/1-foreverjun.git
+[submodule "1-SofuriHafe"]
+	path = 1-SofuriHafe
+	url = https://github.com/spbu-coding/1-SofuriHafe.git
