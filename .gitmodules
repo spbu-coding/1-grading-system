@@ -37,3 +37,6 @@
 [submodule "1-SofuriHafe"]
 	path = 1-SofuriHafe
 	url = https://github.com/spbu-coding/1-SofuriHafe.git
+[submodule "1-DelRoso"]
+	path = 1-DelRoso
+	url = https://github.com/spbu-coding/1-DelRoso.git
