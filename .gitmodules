@@ -4,3 +4,6 @@
 [submodule "1-zishkaz"]
 	path = 1-zishkaz
 	url = https://github.com/spbu-coding/1-zishkaz.git
+[submodule "1-Ramazanov-Amir"]
+	path = 1-Ramazanov-Amir
+	url = https://github.com/spbu-coding/1-Ramazanov-Amir.git
