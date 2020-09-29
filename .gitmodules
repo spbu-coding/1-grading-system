@@ -40,3 +40,6 @@
 [submodule "1-DelRoso"]
 	path = 1-DelRoso
 	url = https://github.com/spbu-coding/1-DelRoso.git
+[submodule "1-michael555444"]
+	path = 1-michael555444
+	url = https://github.com/spbu-coding/1-michael555444.git
