@@ -1,3 +1,6 @@
 [submodule "1-grading-tests"]
 	path = 1-grading-tests
 	url = https://github.com/spbu-coding/1-grading-tests.git
+[submodule "1-zishkaz"]
+	path = 1-zishkaz
+	url = https://github.com/spbu-coding/1-zishkaz.git
