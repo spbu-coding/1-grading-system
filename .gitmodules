@@ -7,3 +7,6 @@
 [submodule "1-Ramazanov-Amir"]
 	path = 1-Ramazanov-Amir
 	url = https://github.com/spbu-coding/1-Ramazanov-Amir.git
+[submodule "1-MashrurIslam"]
+	path = 1-MashrurIslam
+	url = https://github.com/spbu-coding/1-MashrurIslam.git
