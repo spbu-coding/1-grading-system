@@ -5,6 +5,8 @@ update_configs:
     update_schedule: "daily"
     allowed_updates:
       - match:
+          dependency_name: "1-kettlberry"
+      - match:
           dependency_name: "1-danielsheh02"
       - match:
           dependency_name: "1-zishkaz"
