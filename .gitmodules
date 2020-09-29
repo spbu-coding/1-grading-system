@@ -49,3 +49,6 @@
 [submodule "1-Lev0nid"]
 	path = 1-Lev0nid
 	url = https://github.com/spbu-coding/1-Lev0nid.git
+[submodule "1-Naniduan"]
+	path = 1-Naniduan
+	url = https://github.com/spbu-coding/1-Naniduan.git
