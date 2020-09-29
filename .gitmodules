@@ -31,3 +31,6 @@
 [submodule "1-esvault"]
 	path = 1-esvault
 	url = https://github.com/spbu-coding/1-esvault.git
+[submodule "1-foreverjun"]
+	path = 1-foreverjun
+	url = https://github.com/spbu-coding/1-foreverjun.git
