@@ -10,3 +10,6 @@
 [submodule "1-MashrurIslam"]
 	path = 1-MashrurIslam
 	url = https://github.com/spbu-coding/1-MashrurIslam.git
+[submodule "1-rudolf101"]
+	path = 1-rudolf101
+	url = https://github.com/spbu-coding/1-rudolf101.git

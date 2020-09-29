@@ -10,6 +10,8 @@ update_configs:
           dependency_name: "1-Ramazanov-Amir"
       - match:
           dependency_name: "1-MashrurIslam"
+      - match:
+          dependency_name: "1-rudolf101"
     ignored_updates:
       - match:
           dependency_name: "1-grading-tests"
