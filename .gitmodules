@@ -28,3 +28,6 @@
 [submodule "1-TheDarkRisen"]
 	path = 1-TheDarkRisen
 	url = https://github.com/spbu-coding/1-TheDarkRisen.git
+[submodule "1-esvault"]
+	path = 1-esvault
+	url = https://github.com/spbu-coding/1-esvault.git
