@@ -73,3 +73,6 @@
 [submodule "1-pervomai"]
 	path = 1-pervomai
 	url = https://github.com/spbu-coding/1-pervomai.git
+[submodule "1-ShishaK1N9"]
+	path = 1-ShishaK1N9
+	url = https://github.com/spbu-coding/1-ShishaK1N9.git
