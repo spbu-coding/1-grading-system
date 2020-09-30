@@ -88,3 +88,6 @@
 [submodule "1-fertmanasa"]
 	path = 1-fertmanasa
 	url = https://github.com/spbu-coding/1-fertmanasa.git
+[submodule "1-ViktorKarasss"]
+	path = 1-ViktorKarasss
+	url = https://github.com/spbu-coding/1-ViktorKarasss.git
