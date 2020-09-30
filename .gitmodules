@@ -85,3 +85,6 @@
 [submodule "1-qsqnk"]
 	path = 1-qsqnk
 	url = https://github.com/spbu-coding/1-qsqnk.git
+[submodule "1-fertmanasa"]
+	path = 1-fertmanasa
+	url = https://github.com/spbu-coding/1-fertmanasa.git
