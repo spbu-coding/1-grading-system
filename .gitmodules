@@ -79,3 +79,6 @@
 [submodule "1-smmac72"]
 	path = 1-smmac72
 	url = https://github.com/spbu-coding/1-smmac72.git
+[submodule "1-IraSheremet"]
+	path = 1-IraSheremet
+	url = https://github.com/spbu-coding/1-IraSheremet.git
