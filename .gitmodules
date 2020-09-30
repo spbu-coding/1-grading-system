@@ -70,3 +70,6 @@
 [submodule "1-IAmFunkyFrog"]
 	path = 1-IAmFunkyFrog
 	url = https://github.com/spbu-coding/1-IAmFunkyFrog.git
+[submodule "1-pervomai"]
+	path = 1-pervomai
+	url = https://github.com/spbu-coding/1-pervomai.git
