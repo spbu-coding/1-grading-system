@@ -82,3 +82,6 @@
 [submodule "1-IraSheremet"]
 	path = 1-IraSheremet
 	url = https://github.com/spbu-coding/1-IraSheremet.git
+[submodule "1-qsqnk"]
+	path = 1-qsqnk
+	url = https://github.com/spbu-coding/1-qsqnk.git

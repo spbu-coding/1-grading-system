@@ -5,6 +5,8 @@ update_configs:
     update_schedule: "daily"
     allowed_updates:
       - match:
+          dependency_name: "1-qsqnk"
+      - match:
           dependency_name: "1-IraSheremet"
       - match:
           dependency_name: "1-smmac72"
