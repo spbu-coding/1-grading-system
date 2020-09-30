@@ -76,3 +76,6 @@
 [submodule "1-ShishaK1N9"]
 	path = 1-ShishaK1N9
 	url = https://github.com/spbu-coding/1-ShishaK1N9.git
+[submodule "1-smmac72"]
+	path = 1-smmac72
+	url = https://github.com/spbu-coding/1-smmac72.git
