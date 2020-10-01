@@ -94,3 +94,6 @@
 [submodule "1-AShlegel"]
 	path = 1-AShlegel
 	url = https://github.com/spbu-coding/1-AShlegel.git
+[submodule "1-XeniaKart"]
+	path = 1-XeniaKart
+	url = https://github.com/spbu-coding/1-XeniaKart.git
