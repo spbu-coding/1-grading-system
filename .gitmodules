@@ -112,3 +112,6 @@
 [submodule "1-GalbadrakhB"]
 	path = 1-GalbadrakhB
 	url = https://github.com/spbu-coding/1-GalbadrakhB.git
+[submodule "1-maria-atmazhitova"]
+	path = 1-maria-atmazhitova
+	url = https://github.com/spbu-coding/1-maria-atmazhitova.git
