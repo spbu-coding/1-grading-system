@@ -109,3 +109,6 @@
 [submodule "1-IlyaMuravjov"]
 	path = 1-IlyaMuravjov
 	url = https://github.com/spbu-coding/1-IlyaMuravjov.git
+[submodule "1-GalbadrakhB"]
+	path = 1-GalbadrakhB
+	url = https://github.com/spbu-coding/1-GalbadrakhB.git
