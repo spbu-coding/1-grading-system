@@ -100,3 +100,6 @@
 [submodule "1-SlavaLatokhin"]
 	path = 1-SlavaLatokhin
 	url = https://github.com/spbu-coding/1-SlavaLatokhin.git
+[submodule "1-AlexanderRunov"]
+	path = 1-AlexanderRunov
+	url = https://github.com/spbu-coding/1-AlexanderRunov.git
