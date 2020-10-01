@@ -91,3 +91,6 @@
 [submodule "1-ViktorKarasss"]
 	path = 1-ViktorKarasss
 	url = https://github.com/spbu-coding/1-ViktorKarasss.git
+[submodule "1-AShlegel"]
+	path = 1-AShlegel
+	url = https://github.com/spbu-coding/1-AShlegel.git
