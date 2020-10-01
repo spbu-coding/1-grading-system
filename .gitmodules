@@ -106,3 +106,6 @@
 [submodule "1-baranov1dragonsuper"]
 	path = 1-baranov1dragonsuper
 	url = https://github.com/spbu-coding/1-baranov1dragonsuper.git
+[submodule "1-IlyaMuravjov"]
+	path = 1-IlyaMuravjov
+	url = https://github.com/spbu-coding/1-IlyaMuravjov.git
