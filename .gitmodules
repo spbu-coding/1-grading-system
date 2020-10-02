@@ -115,3 +115,6 @@
 [submodule "1-maria-atmazhitova"]
 	path = 1-maria-atmazhitova
 	url = https://github.com/spbu-coding/1-maria-atmazhitova.git
+[submodule "1-st085683"]
+	path = 1-st085683
+	url = https://github.com/spbu-coding/1-st085683.git
