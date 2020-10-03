@@ -118,3 +118,6 @@
 [submodule "1-st085683"]
 	path = 1-st085683
 	url = https://github.com/spbu-coding/1-st085683.git
+[submodule "1-Tizain"]
+	path = 1-Tizain
+	url = https://github.com/spbu-coding/1-Tizain.git
