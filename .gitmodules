@@ -121,3 +121,6 @@
 [submodule "1-Tizain"]
 	path = 1-Tizain
 	url = https://github.com/spbu-coding/1-Tizain.git
+[submodule "1-AndreyBryns"]
+	path = 1-AndreyBryns
+	url = https://github.com/spbu-coding/1-AndreyBryns.git
