@@ -127,3 +127,6 @@
 [submodule "1-MeviusS"]
 	path = 1-MeviusS
 	url = https://github.com/spbu-coding/1-MeviusS.git
+[submodule "1-AbdurazikovManuchehr"]
+	path = 1-AbdurazikovManuchehr
+	url = https://github.com/spbu-coding/1-AbdurazikovManuchehr.git
