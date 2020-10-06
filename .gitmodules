@@ -130,3 +130,6 @@
 [submodule "1-AbdurazikovManuchehr"]
 	path = 1-AbdurazikovManuchehr
 	url = https://github.com/spbu-coding/1-AbdurazikovManuchehr.git
+[submodule "1-abn1999"]
+	path = 1-abn1999
+	url = https://github.com/spbu-coding/1-abn1999.git
