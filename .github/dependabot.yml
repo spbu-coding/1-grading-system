@@ -1,0 +1,56 @@
+version: 2
+updates:
+- package-ecosystem: gitsubmodule
+  directory: "/."
+  schedule:
+    interval: daily
+  open-pull-requests-limit: 50
+  allow:
+  - dependency-name: 1-abn1999
+  - dependency-name: 1-AbdurazikovManuchehr
+  - dependency-name: 1-MeviusS
+  - dependency-name: 1-AndreyBryns
+  - dependency-name: 1-Tizain
+  - dependency-name: 1-st085683
+  - dependency-name: 1-maria-atmazhitova
+  - dependency-name: 1-GalbadrakhB
+  - dependency-name: 1-IlyaMuravjov
+  - dependency-name: 1-baranov1dragonsuper
+  - dependency-name: 1-AlexanderRunov
+  - dependency-name: 1-SlavaLatokhin
+  - dependency-name: 1-XeniaKart
+  - dependency-name: 1-AShlegel
+  - dependency-name: 1-ViktorKarasss
+  - dependency-name: 1-fertmanasa
+  - dependency-name: 1-qsqnk
+  - dependency-name: 1-IraSheremet
+  - dependency-name: 1-smmac72
+  - dependency-name: 1-ShishaK1N9
+  - dependency-name: 1-pervomai
+  - dependency-name: 1-IAmFunkyFrog
+  - dependency-name: 1-Mishavint
+  - dependency-name: 1-MDubovik
+  - dependency-name: 1-PyRayman
+  - dependency-name: 1-artmotika
+  - dependency-name: 1-AzimMuradov
+  - dependency-name: 1-Naniduan
+  - dependency-name: 1-Lev0nid
+  - dependency-name: 1-MansurSakiev
+  - dependency-name: 1-michael555444
+  - dependency-name: 1-DelRoso
+  - dependency-name: 1-SofuriHafe
+  - dependency-name: 1-foreverjun
+  - dependency-name: 1-esvault
+  - dependency-name: 1-TheDarkRisen
+  - dependency-name: 1-TimPushkin
+  - dependency-name: 1-ToTTopBYxe
+  - dependency-name: 1-kettlberry
+  - dependency-name: 1-danielsheh02
+  - dependency-name: 1-zishkaz
+  - dependency-name: 1-Ramazanov-Amir
+  - dependency-name: 1-MashrurIslam
+  - dependency-name: 1-rudolf101
+  ignore:
+  - dependency-name: 1-grading-tests
+    versions:
+    - ">= 0"
